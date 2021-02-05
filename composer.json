@@ -1,0 +1,12 @@
+{
+    "name": "rsroh/wp-ck",
+    "authors": [
+        {
+            "name": "Rohan Sharma",
+            "email": "rohan@rensans.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.2"
+    }
+}

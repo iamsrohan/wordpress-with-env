@@ -1,0 +1,6 @@
+/vendor/
+/development/
+.htaccess
+.env
+wp-config.php
+wp-env.php
