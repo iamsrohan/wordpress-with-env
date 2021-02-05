@@ -1,4 +1,4 @@
-# Revo sports asia
+# Securing wordpress using .env file
 
 ### Installation
 
